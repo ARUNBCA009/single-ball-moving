@@ -1,4 +1,4 @@
-# single-ball-moving
+# Stimulation-ball-movement
 # *Moving Ball*
 
 This project features a simple *Moving Ball* created using HTML, CSS, and JavaScript. The ball moves across the screen, showcasing basic animation techniques and event handling.
